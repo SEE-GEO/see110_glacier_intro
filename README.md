@@ -7,7 +7,7 @@ Som en student kan du antingen ladda ner filerna med
 ```bash
 git clone https://github.com/SEE-GEO/see110_glacier_intro.git
 ```
-eller som en [zip](https://github.com/SEE-GEO/see110_netcdf_tutorial/archive/refs/heads/main.zip).
+eller som en [zip](https://github.com/SEE-GEO/see110_glacier_intro/archive/refs/heads/main.zip).
 
 Du behöver ha följande python-paket, och paket de är beroende av, installerade för att kunna följa med i instruktionerna:
 - oggm
