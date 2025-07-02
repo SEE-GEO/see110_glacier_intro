@@ -5,8 +5,8 @@ Det här är repot innehåller kursmaterial för att komma igång med projekt fe
 
 ## Instruktioner för studenter som arbetar på OGGM Classroom (Rekommenderas)
 
-1. Skapa ett konto via [denna länken](https://classroom.oggm.org/hub/signup). Ditt användarnamn ska följa mallen `cth24_{cid}` t.ex. `cth24_eriholmg`. Din handledare kommer godkänna ditt nya konto så snart som möjligt.
-2. När ditt konto har blivit gondkänt, logga in och välj  `oggm-v161` från "server options".
+1. Skapa ett konto via [denna länken](https://classroom.oggm.org/hub/signup). Ditt användarnamn ska följa mallen `cth25_{cid}`: som exempel, mitt cid är eriholmg, och då ska mitt användarnamn vara `cth25_eriholmg`. Din handledare kommer godkänna ditt nya konto så snart som möjligt.
+2. När ditt konto har blivit gondkänt, logga in och välj  `oggm-v162` från "server options".
 3. Öppna en terminal `File->New->Terminal` och från din hemkatalog kör följande kommandon:
     ```bash
     gitpuller https://github.com/OGGM/oggm-edu-notebooks master edu_notebooks
